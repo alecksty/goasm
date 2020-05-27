@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  goasm.cpp
+C:\Users\aleck\Desktop\RFID\Gits\goasm\goasm\goasm.cpp(222,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aleck\Desktop\RFID\Gits\goasm\goasm\goasm.cpp(234,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aleck\Desktop\RFID\Gits\goasm\goasm\goasm.cpp(248,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aleck\Desktop\RFID\Gits\goasm\goasm\goasm.cpp(323,10): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aleck\Desktop\RFID\Gits\goasm\goasm\goasm.cpp(333,10): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  goasm.vcxproj -> C:\Users\aleck\Desktop\RFID\Gits\goasm\Debug\goasm.exe
